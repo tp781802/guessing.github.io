@@ -15,7 +15,7 @@ body {
 <center>
 <button type = "button" onclick="location.reload();">Try Again</button>
 
-<button type = "button" onclick="window.location.href = 'website.html';">Back to Home</button>
+<button type = "button" onclick="window.location.href = 'tp781802.github.io';">Back to Home</button>
 </center>
 
 <script>
